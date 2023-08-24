@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'mcOS-latest'
+  vmImage: 'windows-latest'
 
 steps:
 - task: UseRubyVersion@0
