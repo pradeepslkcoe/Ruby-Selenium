@@ -20,7 +20,7 @@ steps:
   displayName: 'bundle install'
 
 
-- script: ruby WebPage_Validation.rb --runner=junitxml-output-file=result.xml
+- script: ruby WebPage_Title.rb --runner=junitxml-output-file=result.xml
   displayName: 'Execute Ruby script'
 
 - task: PublishTestResults@2
