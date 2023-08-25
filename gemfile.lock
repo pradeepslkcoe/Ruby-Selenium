@@ -18,7 +18,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  selenium-webdriver
+  selenium-webdriver (~> 4.11)
   test-unit
   test-unit-runner-junitxml
 
