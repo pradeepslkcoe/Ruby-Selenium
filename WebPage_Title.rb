@@ -1,3 +1,4 @@
+require "rubygems"
 require "test/unit/assertions"
 require "selenium-webdriver"
 require "test/unit/runner/junitxml"
