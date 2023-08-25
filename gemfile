@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 gem "test-unit"
-gem 'selenium-webdriver', '~> 4.11'
+gem 'selenium-webdriver', '~> 2.50'
 gem "test-unit-runner-junitxml"
